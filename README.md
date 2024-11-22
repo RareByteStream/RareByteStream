@@ -7,7 +7,7 @@ Introduction:
   I’m interested in Software Development with high emphasis on GUI Development and User Interface Engineering.
   I am also highly interested in Networking and Filesystem Level programming. 
   My interest in databases are a little lower compared to those above,
-  because data storage can be performed in filesystem in small scale applications. 
+  because data storage can be performed in filesystem in many applications.
   
   I’m looking to collaborate on any project that i can learn to do things better while also adding value. 
   I don't contribute to projects to learn something from scratch unless it's a very narrow scope, 
