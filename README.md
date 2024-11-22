@@ -17,10 +17,12 @@ Introduction:
   
 Personal Information: 
   Pronouns: he/him; 
-  Aliases: Wade, Alex;
+  Alias Names: Wade, Alex;
+  Alias Surname: Willer;
   My legal name is Enes, which is a turkish name because I was born in a turkish family. 
   If we are discussing business or we are coworkers, you shall use my legal name. 
   Otherwise you shall use either my github username or one of my aliases;
+  Languages: English (B2-C1), Turkish (B1-B2); 
 
 
   
