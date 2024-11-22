@@ -1,4 +1,4 @@
-<pre style="text-wrap: wrap; white-space-collapse: break-space;">
+<pre style="word-break: normal; text-wrap: wrap; white-space-collapse: break-space;">
 
 For business discussions only use my email address.
 
