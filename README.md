@@ -5,7 +5,8 @@ For business discussions only use my email address.
 
 I’m interested in Software Development with high emphasis on GUI Development and User Interface Engineering.
 I am also highly interested in Networking and Filesystem Level programming. 
-My interest in databases are a little lower comapred to those above since data storage can be performed in filesystem in small scale applications. 
+My interest in databases are a little lower compared to those above,
+because data storage can be performed in filesystem in small scale applications. 
 
 
 I’m currently learning a lot of things: 
