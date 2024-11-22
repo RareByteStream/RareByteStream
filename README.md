@@ -1,3 +1,4 @@
+<pre>
 
 For business discussions only use my email address.
 
@@ -25,7 +26,8 @@ Personal Information:
   My legal name is Enes, which is a turkish name because I was born in a turkish family. 
   If we are discussing business or we are coworkers, you shall use my legal name. 
   Otherwise you shall use either my github username or one of my aliases;
-
+  
+</pre>
 <!---
 ConstructiveKeyboard/ConstructiveKeyboard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
