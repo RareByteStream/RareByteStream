@@ -31,7 +31,8 @@ I’m currently learning:
   MongoDB;
   In Depth HTTP Protocol;
   In Depth EcmaScript Specification;
-  GUI Development across frameworks ( CSS with ES6+ and HTML, JavaFX, Kivy, TKInter );
+  GUI Development across frameworks ( CSS with ES6+ and HTML, JavaFX, Kivy ),
+  [ordered from most proficient to least];
 
 
   
