@@ -16,7 +16,6 @@ Introduction:
 
   
 Personal Information: 
-  Pronouns: he/him; 
   Alias Names: Wade, Alex;
   Alias Surname: Willer;
   My legal name is Enes. If we are discussing business or we are coworkers, 
@@ -24,13 +23,15 @@ Personal Information:
   github username or one of my aliases. I use my legal name for 
   legal and professional processes and interactions.;
   Languages: English (B2-C1), German (A1-A2), Turkish (B1-B2); 
-
+  Pronouns: he/him; 
+  
 
   
 I’m currently learning: 
   MongoDB;
   In Depth HTTP Protocol;
   In Depth EcmaScript Specification;
+  Java for Back End Infrastructure
   GUI Development across frameworks ( CSS with ES6+ and HTML, JavaFX, Kivy ),
   [ordered from most proficient to least];
 
