@@ -16,14 +16,11 @@ Introduction:
 
   
 Personal Information: 
-  Alias Names: Wade, Alex;
-  Alias Surname: Willer;
   My legal name is Enes. If we are discussing business or we are coworkers, 
-  you shall can use my legal name. Otherwise you shall use either my 
-  github username or one of my aliases. I use my legal name for 
-  legal and professional processes and interactions.;
+  you can use my legal name. Otherwise you use either my 
+  github username or one of my aliases. I use my legal name 
+  in formal and legal contexts.;
   Languages: English (B2-C1), German (A1-A2), Turkish (B1-B2); 
-  Pronouns: he/him; 
   
 
   
