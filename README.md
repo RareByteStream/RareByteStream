@@ -1,9 +1,10 @@
 <pre>
-
 For business discussions and/or inquiries only use my email address.
+__________________
 
+
+Introduction:
   
-Introduction: 
   I’m interested in Software Development with high emphasis on GUI Development and User Interface Engineering.
   I am also highly interested in Networking and Filesystem Level programming. 
   My interest in databases are a little lower compared to those above,
