@@ -17,11 +17,11 @@ Introduction:
 
   
 Personal Information: 
-  My legal name is Enes. If we are discussing business or we are coworkers, 
+  If we are discussing business or we are coworkers, 
   you can use my legal name. Otherwise you use either my 
   github username or one of my aliases. I use my legal name 
-  in formal and legal contexts.;
-  Languages: English (B2-C1), German (A1-A2), Turkish (B1-B2); 
+  in formal and legal contexts only.;
+  Languages: English (B2-C1), German (A1-A2); 
   
 
   
