@@ -12,7 +12,7 @@ Introduction:
   Although I am aware that databases are necessary for scalable data storage so i don't refuse to learn them.
   
   I’m looking to collaborate on any project that i can learn to do things better while also adding value. 
-  I don't contribute to projects to learn something from scratch unless it's a very narrow scope, 
+  I don't contribute to projects to learn something from scratch unless it's a very narrow scope.
   I tend to prepare for it before starting to work on a project.
   
 
