@@ -18,9 +18,9 @@ Introduction:
   
 Personal Information: 
   If we are discussing business or we are coworkers, 
-  you can use my legal name. Otherwise you use either my 
-  github username or one of my aliases. I use my legal name 
-  in formal and legal contexts only.;
+  you can use my legal name. Otherwise use either my 
+  github nickname or one of my github names. 
+  I use my legal name in formal and legal contexts only.;
   Languages: English (B2-C1), German (A1-A2); 
   
 
@@ -30,7 +30,7 @@ I’m currently learning:
   In Depth HTTP Protocol;
   In Depth EcmaScript Specification;
   Java for Full-Stack Development;
-  GUI Development across frameworks ( CSS with ES6+ and HTML, JavaFX, Kivy ),
+  GUI Development across frameworks ( CSS with ES6+ and HTML, Electron, JavaFX, Cordova, Android API ),
   [ordered from most proficient to least];
 
 
