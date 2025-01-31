@@ -7,7 +7,7 @@ __________________
   * I’m interested in Software Development/Engineering with high emphasis on GUI Development and User Interface Engineering for client side, local networking and filesystem level programming for low level operations. 
   My interest in databases are a little lower compared to those since I was only inclined to develop systems that are only intended for my personal use. Data storage can be performed in filesystem when it comes to programming solo so i never used dbms software as passionately as language runtime platforms themselves. 
   
-  * I would be interested in collaborating on any project that i can learn to do things better while also adding the necessary value. I wouldn't contribute to a project to learn something from scratch unless it's a very narrow scope where I can use my collateral experience to supply the new domain.
+  * I would be interested in collaborating on any project that i can learn more about computer science while also adding the necessary value.
   
 
   
