@@ -1,4 +1,4 @@
-For business discussions and/or inquiries only use my email address.
+For business discussions and/or inquiries use only my email address.
 __________________
 
 
