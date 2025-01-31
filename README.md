@@ -20,9 +20,9 @@ Introduction:
 Personal Information: 
   If we are discussing business or we are coworkers, 
   you can use my legal name. Otherwise use either my 
-  github nickname or one of my github names. 
+  github nickname or one of my github names ( first or second ). 
   I use my legal name in formal and legal contexts only.;
-  Languages: English (B2-C1), German (A1-A2); 
+  Preferred Languages: English , German ; 
   
 
   
