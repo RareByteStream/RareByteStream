@@ -27,11 +27,12 @@ __________________
 
 
 ## Pursuits/Goals ( Long Term ): 
+* Standards of EcmaScript, Java, Python, C++ and C.
 * GUI Development best practices across mainstream high level frameworks ( CSS with ES6+ and HTML, Electron, JavaFX, Cordova, Android API ), [ordered from most proficient to least].
 * Algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, JavaFX, Cairo, Pango etc. I would study and experiment with anything that would enhance my understanding of the logic/algorithms. )
 * Standards of MongoDB, SQL and databases in general.
 * Standards of HTTP Protocol across versions.
-* Standards of EcmaScript, Java, Python, C++ and C.
+
 
 
 
