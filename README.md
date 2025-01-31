@@ -20,10 +20,10 @@ __________________
 
   
 ## Proficiencies: 
-* EcmaScript 6+ in browsers and nodejs. ( Expert, i can hack or implement any library if the time is given. )
-* Bash for scripting/devops. ( Intermediate. Good essential level command of basic language features and linux utilities that can be used with it. )
-* Java ( Beginner. Only some experience with configuring jvm and developing GUIs with JavaFX )
-* Python ( Beginner to Intermediate depending on the task. Only some essential command of basic language features and patterns. )
+* EcmaScript 6+ in browsers and nodejs. ( Expert. i can hack or implement any library if the time is given. ).
+* Bash for scripting/devops. ( Intermediate. Good essential level command of basic language features and linux utilities that can be used with it. ).
+* Java ( Beginner. Only some experience with configuring jvm and developing GUIs with JavaFX ).
+* Python ( Beginner to Intermediate depending on the task. Only some essential command of basic language features and patterns. ).
 
 
 ## Pursuits/Goals ( Long Term ): 
