@@ -14,7 +14,7 @@ __________________
 ## Personal Information: 
  * If we are discussing business or we are coworkers, 
   you can use my legal name. Otherwise use either my 
-  github nickname or one of my github names ( Alex of Willer ). 
+  github nickname or one of my github names ( Alex and/or Willer ). 
   I use my legal name only in formal and legal contexts.
  * Preferred Languages: English, German.
 
