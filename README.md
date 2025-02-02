@@ -26,8 +26,8 @@ __________________
 
 
 ## Pursuits/Goals ( Long Term ): 
-* Standards of EcmaScript, Python, C++ and C.
-* GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova ), GTK ), [ordered from most proficient to least].
+* Deep grasp on the standards of EcmaScript, Python, Java, C++ and C.
+* GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova ), React, Android API, GTK ), [ordered from most proficient to least].
 * Knowing the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
 * Standards of MongoDB, SQL and databases in general.
 * Standards of HTTP Protocol across versions.
