@@ -20,19 +20,18 @@ __________________
  * I would define my proficiency/role as **Full-Cycle** rather than full stack or front end.
   
 ## Proficiencies: 
-* EcmaScript 6+ in browsers and nodejs. ( Expert. i can hack or implement any library if the time is given. ).
+* EcmaScript 6+ in browsers and nodejs. ( Expert. I can hack or implement any library if the time is given. ).
 * Bash for scripting/devops. ( Intermediate. Good essential level command of basic language features and linux utilities that can be used with it. ).
-* Java ( Beginner. Only some experience with configuring jvm and developing GUIs with JavaFX ).
 * Python ( Beginner to Intermediate depending on the task. Only some essential command of basic language features and patterns. ).
 
 
 ## Pursuits/Goals ( Long Term ): 
 * Standards of EcmaScript, Java, Python, C++ and C.
-* GUI Development best practices across mainstream high level frameworks ( CSS with ES6+ and HTML, Electron, JavaFX, Cordova, Android API ), [ordered from most proficient to least].
-* Algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, JavaFX, Cairo, Pango etc. I would study and experiment with anything that would enhance my understanding of the logic/algorithms. )
+* GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova ), GTK ), [ordered from most proficient to least].
+* Knowing the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
 * Standards of MongoDB, SQL and databases in general.
 * Standards of HTTP Protocol across versions.
-
+* Being proficient at implementing local networking mechanism such as IPC.
 
 
 
