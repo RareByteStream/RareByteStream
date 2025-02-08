@@ -1,23 +1,24 @@
-For business discussions and/or inquiries use only my email address.
-__________________
 
 
-## My Interest in Software:
+## About Me:
   
-  * I’m interested in Software Development/Engineering with high emphasis on **Custom GUI Development** and **User Interface Engineering** on client side, and **Local Networking** and **Filesystem Ops Programming** on server side. 
-  My interest in databases are a little lower compared to those since I was only inclined to develop systems that are only intended for my personal use. Data storage can be performed in filesystem when it comes to programming solo so i never used dbms software as passionately as language runtime platforms themselves. 
+  * I’m interested in Software Development/Engineering with high emphasis on **Custom GUI Development** and **User Interface Engineering** on client side, and **Local Networking** , **Sub-Processing** and **Filesystem Ops Programming** on server side. 
+  
+  * I have primarily worked on local-first applications but am proficient in database integration "when required".
   
   * I would be interested in collaborating on any project that i can learn more about computer science while also adding the necessary value.
   
+  * I see myself as **Full-Cycle** rather than full-stack or front-end.  
 
   
-## Personal Information: 
+## Contact Information: 
  * If we are discussing business or we are coworkers, 
   you can use my legal name. Otherwise use either my 
   github nickname or one of my github names ( Alex and/or Willer ). 
   I use my legal name only in formal and legal contexts.
  * Preferred Languages: English, German.
- * I would define my proficiency/role as **Full-Cycle** rather than full stack or front end.
+
+
   
 ## Proficiencies: 
 * EcmaScript 6+ in browsers and nodejs. ( Expert. I can hack or implement any library if the time is given. ).
