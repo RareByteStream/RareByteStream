@@ -2,7 +2,7 @@
 
 ## About Me:
   
-  * I’m interested in Software Development/Engineering with high emphasis on **Custom GUI Development** and **User Interface Engineering** on client side, and **Local Networking** , **Sub-Processing** and **Filesystem Ops Programming** on server side. 
+  * I’m interested in Software Development/Engineering with high emphasis on **Custom GUI Development** and **User Interface Engineering** on the client side; and **Local Networking**, **Sub-Processing** and **Filesystem Ops Programming** on server side. 
   
   * I have primarily worked on local-first applications but am proficient in database integration "when required".
   
@@ -15,7 +15,7 @@
 ## Proficiencies: 
 * Strong expertise in JavaScript/Node.js, capable of modifying or implementing libraries as needed per situation and especially per long term requirements.
 * Strong expertise in Bash for DevOps Automation and Utility Scripting.
-* Strong expertise with developing applications on top of GUI Engines such as **Blink/SpiderMonkey**, **Blink/Electron** and **JavaFX**. Especially at Event Handling and for custom behavior and appearance implementation.
+* Strong expertise with developing applications on top of GUI Engines such as **Blink/SpiderMonkey**, **Blink/Electron** and **JavaFX**. Especially at **Event Handling** and for custom behavior and appearance implementation.
 * **Strong Familiarity** and **Intermediate proficiency** with **Python** and **Java** for anything not directly impactful to GUI Development.
 * Familiarity with C, C++ and build automation tools such as Make, CMake, Ninja etc as a result of building and installing the third party applications I dependend on, from their source.
 
