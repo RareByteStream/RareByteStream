@@ -6,9 +6,11 @@
   
   * I have primarily worked on local-first applications but am proficient in database integration "when required".
   
-  * I would be interested in collaborating on any project that i can learn more about computer science while also adding the necessary value.
+  * I am interested in collaborating on any project that I can learn more about computer science and software engineering while also adding the necessary value. I am especially interested in contribution to Open Source projects for that reason.
   
-  * I see myself as **Full-Cycle** rather than full-stack or front-end.  
+  * As a developer I define myself as **Full-Cycle** rather than full-stack or front-end. This is rooted in my own scientific pursuits and streamlining them. I always had to develop my own systems because of the high standards I have got, such as cloning a component for supporting a more performance or time critical functionality.
+    
+  * Context: This profile is tailored primarily for Github and Open Source community, not for professional networks.
 
 
   
