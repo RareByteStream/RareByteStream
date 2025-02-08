@@ -2,7 +2,7 @@
 
 ## About Me:
   
-  * I’m interested in Software Development/Engineering with high emphasis on **Custom GUI Development** and **User Interface Engineering** on the client side; and **Local Networking**, **Sub-Processing** and **Filesystem Ops Programming** on server side. 
+  * I am passionate about Software Development/Engineering with high emphasis on **Custom GUI Development** and **User Interface Engineering** on the client side; and **Local Networking**, **Sub-Processing** and **Filesystem Ops Programming** on server side. 
   
   * I have primarily worked on local-first applications but am proficient in database integration "when required".
   
