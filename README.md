@@ -17,6 +17,7 @@
   github nickname or one of my github names ( Alex and/or Willer ). 
   I use my legal name only in formal and legal contexts.
  * Preferred Languages: English, German.
+ * E-Mail Address: In the profile.
 
 
   
