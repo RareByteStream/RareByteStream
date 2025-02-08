@@ -15,7 +15,8 @@
 ## Proficiencies: 
 * Strong expertise in JavaScript/Node.js, capable of modifying or implementing libraries as needed.
 * Strong expertise in Bash for DevOps Automation and Utility Scripting.
-* Familiarity and Intermediate proficiency with 
+* Familiarity and Intermediate proficiency with Python and Java.
+* Familiarity with C, C++ and buil automation tools such as Make, CMake, Ninja etc.
 
 
 ## Pursuits/Goals ( Long Term ): 
