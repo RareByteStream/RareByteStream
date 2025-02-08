@@ -2,15 +2,15 @@
 
 ## About Me:
   
-  * I am passionate about Software Development/Engineering with strong emphasis on **Custom GUI Development** and **User Interface Engineering** on the client side; and **Local Networking**, **Sub-Processing** and **Filesystem Ops Programming** on server side. 
+  * I am passionate about Software Development/Engineering with strong emphasis on **Custom GUI Development** and **User Interface Engineering** on the client side; and **Local Networking**, **Sub-Processing** and **Filesystem Operations Programming** on server side. 
   
-  * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Concrete example: Piping the distributed USDA food database to my GUI ).
+  * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Concrete example: Integrating the distributed USDA food database to my GUI ).
   
   * I am interested in collaborating on any project that I can learn more about computer science and software engineering while also adding meaningful value. I am especially interested in contributing to open-source projects for that reason.
   
-  * As a developer/engineer, I define myself as **Full-Cycle** rather than full-stack or front-end. This is rooted in my own scientific pursuits and streamlining them. I often find myself developing my own systems because of the high standards I have, such as cloning a component for supporting a more performance or time critical functionality and building the entire system for such scalability in mind in the beginning.
+  * As a developer/engineer, I define myself as **Full-Cycle** rather than full-stack or front-end, committed to handling all problems from beginning to end. This is rooted in my own scientific pursuits and drive to streamline my scientific knowledge consumption hobby. I often find myself developing my own systems because of the high standards I have, —such as cloning components and the entire system for supporting a more performance or time critical functionality— and building the entire system with such scalability in mind in the beginning to avoid pitfalls. 
     
-  * Context: This profile is tailored primarily for Github and open-source community, rather than for observers from professional networks.
+  * Context: This profile is tailored primarily for Github and open-source community, rather than for observers from professional networks. It should be understood as more of a **personal self introduction**.
 
 
   
