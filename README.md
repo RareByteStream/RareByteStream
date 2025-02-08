@@ -10,6 +10,22 @@
   
   * I see myself as **Full-Cycle** rather than full-stack or front-end.  
 
+
+  
+## Proficiencies: 
+* Strong expertise in JavaScript/Node.js, capable of modifying or implementing libraries as needed.
+* Strong expertise in Bash for DevOps Automation and Utility Scripting.
+* Familiarity and Intermediate proficiency with 
+
+
+## Pursuits/Goals ( Long Term ): 
+* Deep grasp on the technical standards of EcmaScript, Python, Java, C++, Rust adn C.
+* GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova ), React, Android API, GTK ), [ordered from most proficient to least].
+* Learning the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
+* Technical standards of MongoDB, SQL and other DBMS.
+* Standards of HTTP Protocol across versions to have a strong grasp of world wide web.
+
+
   
 ## Contact Information: 
  * If we are discussing business or we are coworkers, 
@@ -18,23 +34,6 @@
   I use my legal name only in formal and legal contexts.
  * Preferred Languages: English, German.
  * E-Mail Address: In the profile.
-
-
-  
-## Proficiencies: 
-* EcmaScript 6+ in browsers and nodejs. ( Expert. I can hack or implement any library if the time is given. ).
-* Bash for scripting/devops. ( Intermediate. Good essential level command of basic language features and linux utilities that can be used with it. ).
-* Python ( Beginner to Intermediate depending on the task. Only some essential command of basic language features and patterns. ).
-
-
-## Pursuits/Goals ( Long Term ): 
-* Deep grasp on the standards of EcmaScript, Python, Java, C++ and C.
-* GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova ), React, Android API, GTK ), [ordered from most proficient to least].
-* Knowing the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
-* Standards of MongoDB, SQL and databases in general.
-* Standards of HTTP Protocol across versions.
-* Being proficient at implementing local networking mechanism such as IPC.
-
 
 
 <!---
