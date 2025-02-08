@@ -15,12 +15,13 @@
 ## Proficiencies: 
 * Strong expertise in JavaScript/Node.js, capable of modifying or implementing libraries as needed.
 * Strong expertise in Bash for DevOps Automation and Utility Scripting.
-* Familiarity and Intermediate proficiency with Python and Java.
-* Familiarity with C, C++ and buil automation tools such as Make, CMake, Ninja etc.
+* Strong expertise with developing applications on top of GUI Engines such as **Blink/SpiderMonkey**, **Blink/Electron** and **JavaFX**.
+* **Strong Familiarity** and **Intermediate proficiency** with **Python** and **Java**.
+* Familiarity with C, C++ and build automation tools such as Make, CMake, Ninja etc as a result of building and installing the third party applications I dependend on, from their source.
 
 
 ## Pursuits/Goals ( Long Term ): 
-* Deep grasp on the technical standards of EcmaScript, Python, Java, C++, Rust adn C.
+* Deep grasp on the technical standards of EcmaScript, Python, Java, C++, Rust and C.
 * GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova ), React, Android API, GTK ), [ordered from most proficient to least].
 * Learning the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
 * Technical standards of MongoDB, SQL and other DBMS.
