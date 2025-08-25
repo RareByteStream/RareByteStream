@@ -16,7 +16,7 @@
   
 ## Proficiencies: 
 * Strong expertise in **JavaScript/Node.js**, capable of modifying or implementing libraries as needed per situation and especially for long term requirements.
-* Strong expertise in **Bash for DevOps** Automation and Utility Scripting.
+* Strong expertise in **Bash for DevOps** Automation and Utility Scripting, especially with the built in language constructs.
 * Strong familiarty with **Java** for **GUI** and **Server** development I also have experience working with ProcessBuilder and related classes.
 * Strong expertise with developing applications on top of GUI Engines such as **Blink/SpiderMonkey**, **Blink/Electron** and **JavaFX**. Especially at **Event Handling** and for custom behavior and appearance implementation.
 * Familiarity with Python for anything not directly impactful to GUI Development.
@@ -24,10 +24,10 @@
 
 
 ## Pursuits/Goals ( Long Term ): 
-* Deep grasp on the technical standards of EcmaScript, Python, Java, C++, Rust and C.
+* Deep grasp on the technical standards of EcmaScript, Python, Java, C++, and of course C.
 * GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova, React ), QT, React Native, Android API, "maybe" GTK ), [ordered from most proficient to least].
 * Learning the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
-* Technical standards of MongoDB, SQL and other DBMS.
+* Technical standards of MongoDB, SQL and other DBMS fo understanding efficient data modeling and storage.
 * Standards of HTTP Protocol across versions to have a strong grasp of world wide web.
 
 
