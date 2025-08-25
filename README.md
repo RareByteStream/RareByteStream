@@ -25,7 +25,7 @@
 
 
 ## Pursuits/Goals ( Long Term, spanning to next 3-5 years ): 
-* Deep grasp on the technical standards of EcmaScript, Python, Java, **C++** and **C** and their implementations for understanding the first three at a **closer to metal** level.
+* Deep grasp on the technical standards of **EcmaScript**, **Python**, **Java**, **C++** and **C** and their implementations for understanding the first three at a **closer to metal** level.
 * GUI Development implmentations across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova, React ), QT, React Native, Android API, "maybe" GTK+ and "maybe" QT6 ), [ordered from most proficient to least].
 * Learning the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
 * Technical standards of MongoDB, SQL and other DBMS fo understanding efficient and safe data modeling and processing.
