@@ -1,6 +1,8 @@
 ## Context:
-  * This document is tailored primarily for Github and open-source community, rather than for **evaluators from professional networks**. It should be understood as **more** of a personal self introduction than a professional one. It's main purpose is to save time by providing information to any types of relevant parties before any one on one interaction intended.
+  * This document is tailored primarily for saving time by providing information to any types of relevant parties before any one-on-one interaction is intended.
  
+  * Selections of nformation included in this introduction blends in concerns regarding both **Open-Source communities in Github or elsewhere** and **evaluators from professional networks**. It is not purely professional nor purely personal.
+
 
 ## Projects:
   * None released yet.
