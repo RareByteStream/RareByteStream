@@ -5,9 +5,9 @@
      
   * Context: This profile is tailored primarily for Github and open-source community, rather than for observers from professional networks. It should be understood as more of a **personal self introduction**.
  
-  * I am passionate about Software Development/Engineering with strong emphasis on **Custom GUI Development** and **User Interface Engineering** on the client side; and **Local Networking**, **Sub-Processing** and **Filesystem Operations Programming** on server side. 
+  * I am passionate about Software Development/Engineering with strong emphasis on **Custom GUI Development**, **Custom TUI Development** and **User Interface Engineering** on the client side; **Local Networking**, **Sub-Processing** and **Filesystem Operations Programming** on server side. In general, I am slightly compulsive about performance and API Design convenience balance.
   
-  * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Concrete example: Integrating the distributed USDA food database to my GUI ).
+  * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Future Concrete example: Integrating the distributed USDA food database to my GUI ).
   
   * I am interested in collaborating on any project that I can learn more about computer science and software engineering while also adding meaningful value. I am especially interested in contributing to open-source projects for that reason.
   
@@ -17,18 +17,18 @@
   
 ## Proficiencies: 
 * Strong expertise in **JavaScript/Node.js**, capable of modifying or implementing libraries as needed per situation and especially for long term requirements.
-* Strong expertise in **Bash for DevOps** Automation and Utility Scripting, especially with the built in language constructs.
-* Strong familiarty with **Java** for **GUI** and **Server** development I also have experience working with ProcessBuilder and related classes.
-* Strong expertise with developing applications on top of GUI Engines such as **Blink/SpiderMonkey**, **Blink/Electron** and **JavaFX**. Especially at **Event Handling** and for custom behavior and appearance implementation.
-* Familiarity with Python for anything not directly impactful to GUI Development.
-* Familiarity with C, C++ and build automation tools such as Make, CMake, Ninja etc as a result of building and installing the third party applications I dependend on, from their source.
+* Intermediate to Strong expertise in **Bash for DevOps** Automation and Utility Scripting, especially with the built in language constructs.
+* Beginner to Intermediate familiarty with **Java** for **GUI** and **Server** development I also have experience working with ProcessBuilder and related classes.
+* Strong expertise with developing applications on top of GUI Engines such as **Blink/SpiderMonkey**, **Blink/Electron** and **JavaFX**. Especially at **Event Handling** and for custom behavior and appearance implementation, especially without relying on a framework or a library.
+* Beginner to Intermediate familiarity with Python for anything not directly impactful to GUI Development.
+* Familiarity with C, C++ due from conducting design and performance tests on them; build automation tools such as Make, CMake, Ninja etc as a result of building and installing the third party applications I dependend on, from their source.
 
 
-## Pursuits/Goals ( Long Term ): 
-* Deep grasp on the technical standards of EcmaScript, Python, Java, C++, and of course C.
-* GUI Development best practices across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova, React ), QT, React Native, Android API, "maybe" GTK ), [ordered from most proficient to least].
+## Pursuits/Goals ( Long Term, spanning to next 3-5 years ): 
+* Deep grasp on the technical standards of EcmaScript, Python, Java, **C++** and **C** and their implementations for understanding the first three at a **closer to metal** level.
+* GUI Development implmentations across mature & flexible libraries & frameworks ( ( CSS with ES6+ in Electron, Browsers, Cordova, React ), QT, React Native, Android API, "maybe" GTK+ and "maybe" QT6 ), [ordered from most proficient to least].
 * Learning the scientific basis of algorithms behind GUI technologies we have today such as windowing systems and libraries that run on top of them. ( GTK, QT, Cairo, Pango etc. )
-* Technical standards of MongoDB, SQL and other DBMS fo understanding efficient data modeling and storage.
+* Technical standards of MongoDB, SQL and other DBMS fo understanding efficient and safe data modeling and processing.
 * Standards of HTTP Protocol across versions to have a strong grasp of world wide web.
 
 
@@ -37,9 +37,9 @@
  * If we are discussing business or we are coworkers, 
   you can use my legal name. Otherwise use either my 
   github nickname or one of my github names ( Alex and/or Willer ). 
-  I use my legal name only in formal and legal contexts.
- * Preferred Languages: English, German.
- * E-Mail Address: In the profile.
+  I use and respect my legal name only in formal and legal contexts.
+ * Preferred Languages: English, Other Indo European ( can translate indo european languages efficiently in text )
+ * E-Mail Address: enesg.devel@gmail.com
 
 
 <!---
