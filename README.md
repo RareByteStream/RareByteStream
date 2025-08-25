@@ -7,7 +7,7 @@
  
   * I am passionate about Software Development/Engineering with strong emphasis on **Custom GUI Development**, **Custom TUI Development** and **User Interface Engineering** on the client side; **Local Networking**, **Sub-Processing** and **Filesystem Operations Programming** on server side. In general, I am slightly compulsive about performance and API Design convenience balance.
   
-  * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Future Concrete example: Integrating the distributed USDA food database to my GUI ).
+  * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Future example: Integrating the distributed USDA food database to my GUI ).
   
   * I am interested in collaborating on any project that I can learn more about computer science and software engineering while also adding meaningful value. I am especially interested in contributing to open-source projects for that reason.
   
