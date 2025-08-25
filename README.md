@@ -1,10 +1,13 @@
+## Context:
+  * This document is tailored primarily for Github and open-source community, rather than for observers from professional networks. It should be understood as more of a **personal self introduction**. It serves to save time by providing information.
+ 
+
 ## Projects:
   * None released yet.
 
+
 ## About Me:
-     
-  * Context: This profile is tailored primarily for Github and open-source community, rather than for observers from professional networks. It should be understood as more of a **personal self introduction**. It serves to save time by providing information.
- 
+
   * I am passionate about Software Development/Engineering with strong emphasis on **Custom GUI Development**, **Custom TUI Development** and **User Interface Engineering** on the client side; **Local Networking**, **Sub-Processing** and **Filesystem Operations Programming** on server side. In general, I am slightly compulsive about performance and API Design convenience balance.
   
   * I have primarily worked on local-first applications but am proficient in database integration **when required** ( Future example: Integrating the distributed USDA food database to a GUI and TUI i built for it ).
