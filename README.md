@@ -1,5 +1,5 @@
 ## Context:
-  * This document is tailored primarily for saving time by providing information to any types of relevant parties before any one-on-one interaction is intended.
+  * This document is tailored primarily for saving time by providing information to any relevant party before one-on-one interaction is intended.
  
   * Selections of nformation included in this introduction blends in concerns regarding both **Open-Source communities in Github or elsewhere** and **evaluators from professional networks**. It is not purely professional nor purely personal.
 
