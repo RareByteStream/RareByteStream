@@ -1,7 +1,7 @@
 ## Context:
   * This document is tailored primarily for saving time by providing information to any relevant party or individual before direct interaction is intended.
  
-  * Selections of nformation included in this introduction blends in concerns regarding both **Open-Source communities in Github or elsewhere** and **evaluators from professional networks**. It is not purely professional nor purely personal.
+  * Selections of information included in this introduction blends in concerns regarding both **Open-Source communities in Github or elsewhere** and **evaluators from professional networks**. It is not purely professional nor purely personal.
 
 
 ## Projects:
